@@ -1,0 +1,30 @@
+The Enlightned Perl Organization - Extended Core Working Group
+==============================================================
+
+
+Initial Membership
+------------------
+
+* Chris Prather
+* Cory Watson
+* Mike Whitaker
+* Jay Shirley
+
+Deliverables
+------------
+
+1. Identify domains that need modules chosen and establish a process for
+ongoing maintenance of these domains.
+2. List of recommended Modules with reviews as to *why* they're recommended.
+3. List of secondary modules that *should* be in future EPO-EC but cannot yet
+currently for specific reasons
+4. List of *specific* ways the EPO can help the secondary List be promoted to
+the EPO-EC
+5. A "Task::EPO-EC" module that defines the Extended Core Modules and allows
+one to Bootstrap off CPAN
+6. A workable plan on how to build a EPO-EC Perl Distribution
+
+
+Timeline
+--------
+
