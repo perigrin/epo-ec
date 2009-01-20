@@ -1,6 +1,5 @@
-The Enlightned Perl Organization - Extended Core Working Group
+The Enlightened Perl Organization - Extended Core Working Group
 ==============================================================
-
 
 Initial Membership
 ------------------
@@ -10,11 +9,23 @@ Initial Membership
 * Mike Whitaker
 * Jay Shirley
 
+Overview
+--------
+
+The Goal of the EPO-EC working group is to produce a List of modules that are
+considered "Best of Breed" modules for domains typically encountered by a
+large Perl Enterprise or Consulting business. This list will be package into a
+standard distribution and work will be made to integrate this distribution
+with the standard installation channels for popular Operating System vendors.
+
+In building the list the Working Group membership will actively pursue people
+in a management level at well known enterprises that are known Perl shops for
+their recommendations and reviews of the modules being considered for approval.
+
 Deliverables
 ------------
 
-1. Identify domains that need modules chosen and establish a process for
-ongoing maintenance of these domains.
+1. List of Domains that the EPO-EC will cover.
 2. List of recommended Modules with reviews as to *why* they're recommended.
 3. List of secondary modules that *should* be in future EPO-EC but cannot yet
 currently for specific reasons
@@ -24,7 +35,18 @@ the EPO-EC
 one to Bootstrap off CPAN
 6. A workable plan on how to build a EPO-EC Perl Distribution
 
-
 Timeline
 --------
 
+1. February 20: List of Domains (1)
+2. March 24: Lists of Modules, Reccmendations and inintial Task::EPO (2-5)
+3. April 24: Update of Task EPO
+4. May 24: Update of Task EPO
+5. May 30: Alpha/Beta release of EPO-Dist (6)
+6. June 24: Update of Task EPO, 
+7. July 24: Update of Task EPO
+8. August 24: Update of Task EPO
+9. September 24: Update of Task EPO
+10. Septebmer 30: Release of EPO-Dist
+ 
+ 
