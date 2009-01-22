@@ -1,0 +1,30 @@
+EPO-EC Working Group Advisors
+=============================
+
+Here is a list of potential advisors for the EPO-EC project, those in the
+confirmed list have said they would be happy to participate, those in the
+proposed list have been suggested but no discussion has been made about
+whether to approach them.
+
+Confirmed
+---------
+Stevan Little (stevan)
+
+To Be Contacted
+---------------
+Jessee Vincent (obra)
+Ricardo Signes (rjbs)
+Matt Trout (mst)
+
+Proposed
+--------
+Dave Cross 
+Leon Brocard (acme)
+Mike Schilli
+Tim Bunce
+Rocco Caputo (dngor)
+Nicholas Clark (nicholas)
+Rafel Garcia Suarez (rgs)
+chromatic
+brian d foy 
+
