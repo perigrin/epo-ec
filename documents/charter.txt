@@ -1,11 +1,15 @@
 The Enlightened Perl Organization - Extended Core Working Group
 ==============================================================
 
-Initial Membership
-------------------
+Initial Chairpersons
+--------------------
 
 * Chris Prather
 * Cory Watson
+
+Initial Membership
+------------------
+
 * Mike Whitaker
 * Jay Shirley
 
@@ -25,11 +29,11 @@ their recommendations and reviews of the modules being considered for approval.
 Deliverables
 ------------
 
-1. List of Domains that the EPO-EC will cover.
-2. List of recommended Modules.
-3. Create list of community "leaders" (high-level positions at companies or
+1. Create list of community "leaders" (high-level positions at companies or
 major contributors to the community, experts in a domain) that can "vet" our
 lists.
+2. List of Domains that the EPO-EC will cover.
+3. List of recommended Modules.
 4. Validate Module list with community leader "reviews" as to *why* they're
 recommended.
 5. List of secondary Modules that *should* be in future EPO-EC but cannot yet
