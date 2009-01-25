@@ -32,7 +32,7 @@ Yuval Kogman (nothingmuch)
 Small script for contacting an advisor:
 
 Hi, I'm [The Doctor] from the EPO Extended Core Working Group and we were
-wondering if you'd be interested in being and advisor for us. Basically what
+wondering if you'd be interested in being an advisor for us. Basically what
 we'd want you to do would only take about an hour a month and you'd just look
 over a list of modules and issues we have and make comments on them. We
 approached you because of your position as [Empororer of the Daleks] and we're
