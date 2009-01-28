@@ -9,6 +9,8 @@ whether to approach them.
 Confirmed
 ---------
 Stevan Little (stevan)
+Robin Berjon (darobin)
+chromatic
 
 To Be Contacted
 ---------------
@@ -25,7 +27,6 @@ Tim Bunce
 Rocco Caputo (dngor)
 Nicholas Clark (nicholas)
 Rafel Garcia Suarez (rgs)
-chromatic
 brian d foy 
 Yuval Kogman (nothingmuch)
 
