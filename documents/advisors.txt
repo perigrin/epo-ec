@@ -11,11 +11,11 @@ Confirmed
 Stevan Little (stevan)
 Robin Berjon (darobin)
 chromatic
+Ricardo Signes (rjbs)
 
 To Be Contacted
 ---------------
 Jessee Vincent (obra)
-Ricardo Signes (rjbs)
 Matt Trout (mst)
 
 Proposed
