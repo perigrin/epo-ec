@@ -15,13 +15,13 @@ Ricardo Signes (rjbs)
 
 To Be Contacted
 ---------------
+Leon Brocard (acme) # acme has complained about the contents, thus has volunteered we just need a best email for him
 Jessee Vincent (obra)
 Matt Trout (mst)
 
 Proposed
 --------
 Dave Cross 
-Leon Brocard (acme)
 Mike Schilli
 Tim Bunce
 Rocco Caputo (dngor)
