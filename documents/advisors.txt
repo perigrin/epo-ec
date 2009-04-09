@@ -9,30 +9,31 @@ whether to approach them.
 Confirmed
 ---------
 Stevan Little (stevan)
+Robin Berjon (darobin)
+chromatic
+Ricardo Signes (rjbs)
 
 To Be Contacted
 ---------------
+Leon Brocard (acme) # acme has complained about the contents, thus has volunteered we just need a best email for him
 Jessee Vincent (obra)
-Ricardo Signes (rjbs)
 Matt Trout (mst)
 
 Proposed
 --------
 Dave Cross 
-Leon Brocard (acme)
 Mike Schilli
 Tim Bunce
 Rocco Caputo (dngor)
 Nicholas Clark (nicholas)
 Rafel Garcia Suarez (rgs)
-chromatic
 brian d foy 
 Yuval Kogman (nothingmuch)
 
 Small script for contacting an advisor:
 
 Hi, I'm [The Doctor] from the EPO Extended Core Working Group and we were
-wondering if you'd be interested in being and advisor for us. Basically what
+wondering if you'd be interested in being an advisor for us. Basically what
 we'd want you to do would only take about an hour a month and you'd just look
 over a list of modules and issues we have and make comments on them. We
 approached you because of your position as [Empororer of the Daleks] and we're

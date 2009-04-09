@@ -36,10 +36,10 @@ major contributors to the community, experts in a domain) that can "vet" our
 lists.
 2. List of Domains that the EPO-EC will cover.
 3. List of recommended Modules.
-4. Validate Module list with community leader "reviews" as to *why* they're
-recommended.
+4. Validate Module list with community leader and get "reviews" as to *why*
+they're recommended.
 5. List of secondary Modules that *should* be in future EPO-EC but cannot yet
-currently for specific reasons.
+for specific reasons.
 6. List of *specific* ways the EPO can help the secondary List be promoted to
 the EPO-EC
 7. A "Task::EPO-EC" module that defines the Extended Core Modules and allows
