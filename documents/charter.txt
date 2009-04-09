@@ -1,17 +1,19 @@
 The Enlightened Perl Organization - Extended Core Working Group
 ==============================================================
 
-Initial Chairpersons
---------------------
+Chairpersons
+------------
 
 * Chris Prather
 * Cory Watson
 
-Initial Membership
-------------------
+Membership
+----------
 
 * Mike Whitaker
 * Jay Shirley
+* Jess Robinson
+* Chris Vertonghen
 
 Overview
 --------
