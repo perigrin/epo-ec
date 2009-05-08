@@ -13,6 +13,7 @@ Robin Berjon (darobin)
 chromatic
 Ricardo Signes (rjbs)
 Matt Trout (mst)
+Yuval Kogman (nothingmuch)
 
 To Be Contacted
 ---------------
@@ -29,7 +30,6 @@ Rocco Caputo (dngor)
 Nicholas Clark (nicholas)
 Rafel Garcia Suarez (rgs)
 brian d foy 
-Yuval Kogman (nothingmuch)
 
 Small script for contacting an advisor:
 
