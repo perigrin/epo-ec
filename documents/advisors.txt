@@ -12,12 +12,13 @@ Stevan Little (stevan)
 Robin Berjon (darobin)
 chromatic
 Ricardo Signes (rjbs)
+Matt Trout (mst)
 
 To Be Contacted
 ---------------
 Leon Brocard (acme) # acme has complained about the contents, thus has volunteered we just need a best email for him
 Jessee Vincent (obra)
-Matt Trout (mst)
+
 
 Proposed
 --------
