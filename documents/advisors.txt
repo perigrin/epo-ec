@@ -2,34 +2,35 @@ EPO-EC Working Group Advisors
 =============================
 
 Here is a list of potential advisors for the EPO-EC project, those in the
-confirmed list have said they would be happy to participate, those in the
+confirmed list have signed up to the [EPO-EC Advisers List][1], those in the
 proposed list have been suggested but no discussion has been made about
 whether to approach them.
 
+[1]: http://lists.scsys.co.uk/cgi-bin/mailman/listinfo/epo-ec-advisors
+
 Confirmed
 ---------
-Stevan Little (stevan)
-Robin Berjon (darobin)
-chromatic
-Ricardo Signes (rjbs)
-Matt Trout (mst)
-Yuval Kogman (nothingmuch)
+* Jessee Vincent (obra)
+* Yuval Kogman (nothingmuch)
+* Leon Brocard (acme) 
+* chromatic
+* Ricardo Signes (rjbs)
 
-To Be Contacted
----------------
-Leon Brocard (acme) # acme has complained about the contents, thus has volunteered we just need a best email for him
-Jessee Vincent (obra)
-
+Invited
+-------
+* Stevan Little (stevan)
+* Robin Berjon (darobin)
+* Matt Trout (mst)
 
 Proposed
 --------
-Dave Cross 
-Mike Schilli
-Tim Bunce
-Rocco Caputo (dngor)
-Nicholas Clark (nicholas)
-Rafel Garcia Suarez (rgs)
-brian d foy 
+* Dave Cross 
+* Mike Schilli
+* Tim Bunce
+* Rocco Caputo (dngor)
+* Nicholas Clark (nicholas)
+* Rafel Garcia Suarez (rgs)
+* brian d foy 
 
 Small script for contacting an advisor:
 
@@ -37,7 +38,7 @@ Hi, I'm [The Doctor] from the EPO Extended Core Working Group and we were
 wondering if you'd be interested in being an advisor for us. Basically what
 we'd want you to do would only take about an hour a month and you'd just look
 over a list of modules and issues we have and make comments on them. We
-approached you because of your position as [Empororer of the Daleks] and we're
+approached you because of your position as [Emperor of the Daleks] and we're
 trying to pull together a group of people who are well respected by the
 community in their respective domains.
 
