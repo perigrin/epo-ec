@@ -15,12 +15,12 @@ Confirmed
 * Leon Brocard (acme) 
 * chromatic
 * Ricardo Signes (rjbs)
+* Matt Trout (mst)
 
 Invited
 -------
 * Stevan Little (stevan)
 * Robin Berjon (darobin)
-* Matt Trout (mst)
 
 Proposed
 --------
