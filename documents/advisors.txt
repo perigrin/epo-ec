@@ -12,12 +12,14 @@ Stevan Little (stevan)
 Robin Berjon (darobin)
 chromatic
 Ricardo Signes (rjbs)
+Matt Trout (mst)
+Yuval Kogman (nothingmuch)
 
 To Be Contacted
 ---------------
 Leon Brocard (acme) # acme has complained about the contents, thus has volunteered we just need a best email for him
 Jessee Vincent (obra)
-Matt Trout (mst)
+
 
 Proposed
 --------
@@ -28,7 +30,6 @@ Rocco Caputo (dngor)
 Nicholas Clark (nicholas)
 Rafel Garcia Suarez (rgs)
 brian d foy 
-Yuval Kogman (nothingmuch)
 
 Small script for contacting an advisor:
 
