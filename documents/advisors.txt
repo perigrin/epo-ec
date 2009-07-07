@@ -18,8 +18,8 @@ Confirmed
 * Matt Trout (mst)
 * Rocco Caputo (dngor)
 * sungo 
-* Tim Bunce
-* Mike Whitaker
+* Tim Bunce (timbunce)
+* Mike Whitaker (penfold)
 
 Invited
 -------
