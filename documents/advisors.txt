@@ -25,7 +25,7 @@ Confirmed
 Invited
 -------
 * Nicholas Clark (nicholas)
-* Paul Fenwick
+* Paul Fenwick (PJF)
 * Rafel Garcia Suarez (rgs)
 * Robin Berjon (darobin)
 * Stevan Little (stevan)
