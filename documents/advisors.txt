@@ -16,20 +16,23 @@ Confirmed
 * chromatic
 * Ricardo Signes (rjbs)
 * Matt Trout (mst)
+* Rocco Caputo (dngor)
+* sungo 
+* Tim Bunce
+* Mike Whitaker
 
 Invited
 -------
 * Stevan Little (stevan)
 * Robin Berjon (darobin)
+* Rafel Garcia Suarez (rgs)
+* Nicholas Clark (nicholas)
+* Paul Fenwick
 
 Proposed
 --------
 * Dave Cross 
 * Mike Schilli
-* Tim Bunce
-* Rocco Caputo (dngor)
-* Nicholas Clark (nicholas)
-* Rafel Garcia Suarez (rgs)
 * brian d foy 
 
 Small script for contacting an advisor:
