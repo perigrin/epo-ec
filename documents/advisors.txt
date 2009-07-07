@@ -10,30 +10,32 @@ whether to approach them.
 
 Confirmed
 ---------
-* Jessee Vincent (obra)
-* Yuval Kogman (nothingmuch)
-* Leon Brocard (acme) 
 * chromatic
-* Ricardo Signes (rjbs)
+* Jessee Vincent (obra)
+* Leon Brocard (acme) 
+* Mark Keating (mdk)
 * Matt Trout (mst)
+* Mike Whitaker (penfold)
+* Ricardo Signes (rjbs)
 * Rocco Caputo (dngor)
 * sungo 
 * Tim Bunce (timbunce)
-* Mike Whitaker (penfold)
+* Yuval Kogman (nothingmuch)
 
 Invited
 -------
-* Stevan Little (stevan)
-* Robin Berjon (darobin)
-* Rafel Garcia Suarez (rgs)
 * Nicholas Clark (nicholas)
 * Paul Fenwick
+* Rafel Garcia Suarez (rgs)
+* Robin Berjon (darobin)
+* Stevan Little (stevan)
+
 
 Proposed
 --------
+* brian d foy 
 * Dave Cross 
 * Mike Schilli
-* brian d foy 
 
 Small script for contacting an advisor:
 
