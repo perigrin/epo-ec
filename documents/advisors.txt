@@ -29,7 +29,7 @@ Invited
 * Rafel Garcia Suarez (rgs)
 * Robin Berjon (darobin)
 * Stevan Little (stevan)
-
+* Michael Kröll (pepl)
 
 Proposed
 --------
